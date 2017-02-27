@@ -1,0 +1,6 @@
+c:\users\mateu\onedrive\documents\visual studio 2015\Projects\ORiSR_project\ORiSR_project\bin\Debug\ORiSR_project.exe.config
+c:\users\mateu\onedrive\documents\visual studio 2015\Projects\ORiSR_project\ORiSR_project\bin\Debug\ORiSR_project.exe
+c:\users\mateu\onedrive\documents\visual studio 2015\Projects\ORiSR_project\ORiSR_project\bin\Debug\ORiSR_project.pdb
+c:\users\mateu\onedrive\documents\visual studio 2015\Projects\ORiSR_project\ORiSR_project\obj\Debug\ORiSR_project.csprojResolveAssemblyReference.cache
+c:\users\mateu\onedrive\documents\visual studio 2015\Projects\ORiSR_project\ORiSR_project\obj\Debug\ORiSR_project.exe
+c:\users\mateu\onedrive\documents\visual studio 2015\Projects\ORiSR_project\ORiSR_project\obj\Debug\ORiSR_project.pdb
